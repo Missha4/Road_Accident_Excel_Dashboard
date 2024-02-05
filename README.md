@@ -8,6 +8,10 @@ Welcome to my Data Visualization Portfolio! 📊 This repository is a showcase o
 
 The **Road Accident Insights Dashboard** is not just a visualization tool; it's a journey through the data landscape of road accidents. 🛣️ Gain deep insights into casualties, vehicle types, and more with engaging visuals and intuitive navigation.
 
+### 📸 Project Snapshot
+
+![Road Accident Dashboard](dashboard.png)
+
 ### 🌟 Key Features
 
 - **Causalities as KPI:** Dive into the impact with a detailed breakdown of casualties, covering fatal, serious, and slight incidents.
@@ -31,9 +35,5 @@ The **Road Accident Insights Dashboard** is not just a visualization tool; it's 
 
 3. **Direct Navigation:**
    - Effortlessly move between sections using intuitive icons.
-
-### 📸 Project Snapshot
-
-![Road Accident Dashboard](dashboard.png)
 
 Feel free to dive into this project and reach out for any questions or collaboration. Thank you for considering my portfolio! 🙌✨
